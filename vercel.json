@@ -16,9 +16,9 @@
     }
   ],
   "env": {
-    "SECRET_ID": "@secret_id",
-    "SECRET_KEY": "@secret_key",
-    "APP_ID": "@app_id",
-    "VUE_APP_KEY": "@vue_app_key"
+    "SECRET_ID": "${SECRET_ID}",
+    "SECRET_KEY": "${SECRET_KEY}",
+    "APP_ID": "${APP_ID}",
+    "VUE_APP_KEY": "${VUE_APP_KEY}"
   }
 } 
